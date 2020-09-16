@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "license": "MIT",
   "bin": {
-    "yun8boo": "dist/index.js"
+    "yun8boo": "bin.js"
   },
   "scripts": {
     "build": "webpack --mode production --progress -p"
